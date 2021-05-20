@@ -1,9 +1,8 @@
 # readme
-<h1 align="center">Hi 👋, I'm Jaco</h1>
-<h3 align="center">I am passionate about automation and caffeine, with enough of both you can do anything</h3>
+<h1 align="center">Hi 👋, I'm Stacey</h1>
 <br>
 <div align="center"> 
- 
- [![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamvans)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamvans&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
