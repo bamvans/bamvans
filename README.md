@@ -3,7 +3,7 @@
 <br>
 <div align="center"> 
 
- [![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamvans&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamvans&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamvans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
