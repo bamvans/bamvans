@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stacey</h1>
 <br>
-- 👀 I'm interested in ...
-- 🌱 I'm currently learning ...
-- 💞️ I'm looking to collaborate on ...
-- 📫 How to reach me ...
+<ul>
+ <li>👀 I'm interested in ...</li>
+ <li>🌱 I'm currently learning ...</li>
+ <li>💞️ I'm looking to collaborate on ...</li>
+ <li>📫 How to reach me ...</li>
+</ul>
 <!-- <div align="center"> 
 
  [![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamvans&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
