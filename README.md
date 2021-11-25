@@ -2,10 +2,10 @@
 <!-- <br> -->
 <ul>
  <li>👋 Hi, I'm @bamvans</li>
- <li>👀 I'm interested in ...</li>
- <li>🌱 I'm currently learning ...</li>
- <li>💞️ I'm looking to collaborate on ...</li>
- <li>📫 How to reach me ...</li>
+ <li>👀 I'm interested in both Frontend and Backend Applications</li>
+ <li>🌱 I'm currently improving my knwoledge on DevOps (AWS)</li>
+ <li>💞️ I'm looking to collaborate on anything interesting!</li>
+ <li>📫 How to reach me <a href="https://bam-vans.dev/" target="_blank">bam-vans.dev</a></li>
 </ul>
 <!-- <div align="center"> 
 
