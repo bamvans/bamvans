@@ -1,11 +1,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Stacey</h1> -->
 <!-- <br> -->
 <ul>
- <li>👋 Hi, I'm @bamvans</li>
- <li>👀 I'm interested in both Frontend and Backend Applications</li>
- <li>🌱 I'm currently improving my knwoledge on DevOps (AWS)</li>
- <li>💞️ I'm looking to collaborate on anything interesting!</li>
- <li>📫 How to reach me <a href="https://bam-vans.dev/" target="_blank">bam-vans.dev</a></li>
+ <li>👋  Hi, I'm @bamvans</li>
+ <li>👀  I'm interested in both Frontend and Backend Applications</li>
+ <li>🌱  I'm currently improving my knwoledge on DevOps (AWS)</li>
+ <li>💞️  I'm looking to collaborate on anything that peaks my interest or yours!</li>
+ <li>📫  You can reach me at <a href="https://bam-vans.dev/" target="_blank">bam-vans.dev</a></li>
 </ul>
 <!-- <div align="center"> 
 
